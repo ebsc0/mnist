@@ -3,7 +3,7 @@ Modified from https://github.com/pytorch/examples/blob/main/mnist/main.py
 
 Modified National Institute of Standards and Technology (MNIST) is a dataset of handwritten digits.
 
-The dataset is seperated into 60,000 training set and 10,000 testing set.
+The dataset is seperated into 60,000 (training set) and 10,000 (testing set) images.
 
 Each image is a 1x28x28 array representing a black and white (single channel) 28x28 image. 
 
