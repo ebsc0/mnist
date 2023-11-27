@@ -1,3 +1,14 @@
+<div align="center">
+<pre>
+  __  __ _   _ ___ ____ _____ 
+ |  \/  | \ | |_ _/ ___|_   _|
+ | |\/| |  \| || |\___ \ | |  
+ | |  | | |\  || | ___) || |  
+ |_|  |_|_| \_|___|____/ |_|  
+</pre>
+</div>
+Convolutional Neural Network (CNN) working with the MNIST dataset.
+
 # MNIST
 Modified from https://github.com/pytorch/examples/blob/main/mnist/main.py
 
